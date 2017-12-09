@@ -11,8 +11,9 @@ body {
 	}
 
 #blog {
-	width: 250px;
+	width: 650px;
 	height: 750px;
+	align-self: center;
 	background-color: #2e2e2e;
 	text-align: justify;
 }
