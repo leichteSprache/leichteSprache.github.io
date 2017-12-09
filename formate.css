@@ -20,9 +20,9 @@ body {
 	}
 
 	#steuerungoben {
-	/*    background-color: orange;*/
+
 	    height: 1.5em;
-	    background-image: url(bilder/durchsichtiges-grau.png);
+	    background-color: white;
 	}
 
 	#steuerungoben ul {
@@ -44,5 +44,5 @@ body {
 			}
 
 	#steuerungoben a:hover {
-			    background-image: url(bilder/durchsichtiges-grau.png);
+			    background-color: white;
 			}
