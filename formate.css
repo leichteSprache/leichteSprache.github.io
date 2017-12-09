@@ -21,8 +21,8 @@ body {
 
 	#steuerungoben {
 
-	    height: 1.5em;
-	    background-color: white;
+	    height: 4.5em;
+	    background-color: 353535;
 	}
 
 	#steuerungoben ul {
@@ -37,12 +37,12 @@ body {
 	#steuerungoben a {
 			    display: inline-block;
 			    width: 230px;
-			    text-align: center;
+			    text-align: right;
 			    text-decoration: none;
 			    line-height: 1.5em;
 			    color: white;
 			}
 
 	#steuerungoben a:hover {
-			    background-color: white;
+			    background-color: 353535;
 			}
