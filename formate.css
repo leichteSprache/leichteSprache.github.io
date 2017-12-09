@@ -12,7 +12,7 @@ body {
 
 	#wrapper {
 	/*    background-color: white;*/
-	    width: 900px;
+	    width: auto;
 			height: 100px;
 	    margin: 0 auto;
 	    background-color:white
@@ -21,7 +21,7 @@ body {
 
 	#steuerungoben {
 
-	    height: 4.5em;
+	    height: 4em;
 	    background-color: #2e2e2e;
 	}
 
