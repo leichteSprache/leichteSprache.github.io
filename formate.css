@@ -22,7 +22,7 @@ body {
 	#steuerungoben {
 
 	    height: 4.5em;
-	    background-color: black;
+	    background-color: 191919;
 	}
 
 	#steuerungoben ul {
@@ -30,7 +30,7 @@ body {
 			}
 
 	#steuerungoben li {
-			/*    background-color: yellow;*/
+
 			    display: inline-block;
 			}
 
@@ -39,7 +39,7 @@ body {
 			    width: 230px;
 			    text-align: right;
 			    text-decoration: none;
-			    line-height: 1.5em;
+			    line-height: 3.5em;
 			    color: white;
 			}
 
