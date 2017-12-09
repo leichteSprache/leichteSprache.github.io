@@ -10,6 +10,14 @@ body {
 	background-color: #4a525a; /* dark blue slate thing */
 	}
 
+#blog {
+	width: 250px;
+	height: 750px;
+	background-color: #2e2e2e;
+	text-align: justify;
+}
+
+
 	#wrapper {
 	/*    background-color: white;*/
 	    width: auto;
