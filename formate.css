@@ -9,3 +9,40 @@ body {
 	min-width: 760px;
 	background-color: #4a525a; /* dark blue slate thing */
 	}
+
+	#wrapper {
+	/*    background-color: white;*/
+	    width: 900px;
+	    margin: 0 auto;
+	    background-image: url(bilder/hintergrund-inhalt.png);
+	    /* fÃ¼r alte IE-Versionen zwecks Zentrierung */
+	    text-align: left;
+	}
+	
+	#steuerungoben {
+	/*    background-color: orange;*/
+	    height: 1.5em;
+	    background-image: url(bilder/durchsichtiges-grau.png);
+	}
+
+	#steuerungoben ul {
+			    list-style-type: none;
+			}
+
+	#steuerungoben li {
+			/*    background-color: yellow;*/
+			    display: inline-block;
+			}
+
+	#steuerungoben a {
+			    display: inline-block;
+			    width: 230px;
+			    text-align: center;
+			    text-decoration: none;
+			    line-height: 1.5em;
+			    color: white;
+			}
+
+	#steuerungoben a:hover {
+			    background-image: url(bilder/durchsichtiges-grau.png);
+			}
