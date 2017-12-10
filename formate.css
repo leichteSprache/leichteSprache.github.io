@@ -86,9 +86,22 @@ h1 {
 
 #bottom {
 		height: 3.6em;
-		background-color: #2e2e2e;
-	margin-top: 43px;
+		background-color: #4a525a;
+
 	text-align: center;
 	font-style: italic;
 	font-size: 1em;
+	margin-top: 50px;
+}
+
+#banner {width: 280px;
+			height: 80px;
+			background-color: #4a525a;
+			float:right;
+			font-size: 0.5em;
+			margin-right: 213px;
+}
+#wrapper {background-color: #4a525a;
+			margin-left: 40px;
+			margin-top: 40px;
 }
